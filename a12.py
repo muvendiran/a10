@@ -1,5 +1,5 @@
 vignesh=input()
 if vignesh==vignesh[::-1]:
-	print("yes potta")
+	print("yes")
 else:
 	print("no")
