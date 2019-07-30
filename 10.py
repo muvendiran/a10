@@ -1,2 +1,2 @@
-c=str(input())
-print(len(c))
+bala=str(input())
+print(len(bala))
